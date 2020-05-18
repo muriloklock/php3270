@@ -16,7 +16,7 @@
  * assim o mesmo é necessário para o uso desta classe.
  * @see http://x3270.bgp.nu/s3270-man.html http://x3270.bgp.nu/s3270-man.html
  *
- * @author Murilo Klock Ferreira <murilo.ferreira@oi.net.br>
+ * @author Murilo Klock Ferreira <murilo.klock@gmail.com>
  *
  * @version 0.1
  */
