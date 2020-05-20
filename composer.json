@@ -1,0 +1,23 @@
+{
+    "name": "php3270/php3270",
+    "type": "library",
+    "description": "php3270 is a wrapper to use s3270 with PHP",
+    "keywords": ["3270","s3270","mainframe"],
+    "authors": [
+        {
+            "name": "Murilo Klock Ferreira",
+            "email": "murilo.klock@gmail.com.com"
+        }
+    ],
+    "require": {
+        "php": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Php3270\\": "Php3270"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
